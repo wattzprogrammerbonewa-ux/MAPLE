@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/nas/*"
+  to = "http://darfo8.synology.me:8686/:splat"
+  status = 200
+  force = true
